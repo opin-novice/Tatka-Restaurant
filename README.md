@@ -1,2 +1,2 @@
 # Tatka-Restaurant
-website for a restauratn
+website for a restaurant
